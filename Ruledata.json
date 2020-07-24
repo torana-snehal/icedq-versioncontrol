@@ -1,10 +1,10 @@
 {
   "rule" : {
     "id" : "111",
-    "name" : "Customer Recon",
-    "desc" : "Records customer Recon",
-    "creationDate" : 1595625066115,
-    "updatedDate" : 1595625066115
+    "name" : "Customer connection",
+    "desc" : "Records customer connection",
+    "creationDate" : 1595631963409,
+    "updatedDate" : 1595631963409
   },
   "rclass" : {
     "classId" : "100",
