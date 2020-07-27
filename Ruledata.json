@@ -1,14 +1,14 @@
 {
   "rule" : {
     "id" : "111",
-    "name" : "Customer connection",
-    "desc" : "Records customer connection",
-    "creationDate" : 1595869273456,
-    "updatedDate" : 1595869273468
+    "name" : "Customer Recon",
+    "desc" : "Records customer Recon",
+    "creationDate" : 1595869410550,
+    "updatedDate" : 1595869410550
   },
   "rclass" : {
     "classId" : "100",
-    "prop" : "Connection",
-    "value" : "Zencycle"
+    "prop" : "EXPR",
+    "value" : "cnt = 44"
   }
 }
