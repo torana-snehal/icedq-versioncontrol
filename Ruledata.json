@@ -1,0 +1,14 @@
+{
+  "rule" : {
+    "id" : "111",
+    "name" : "Customer connection",
+    "desc" : "Records customer connection",
+    "creationDate" : 1595869273456,
+    "updatedDate" : 1595869273468
+  },
+  "rclass" : {
+    "classId" : "100",
+    "prop" : "Connection",
+    "value" : "Zencycle"
+  }
+}
