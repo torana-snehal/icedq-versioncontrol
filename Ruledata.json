@@ -1,0 +1,14 @@
+{
+  "rule" : {
+    "id" : "111",
+    "name" : "Customer Recon",
+    "desc" : "Records customer recon",
+    "creationDate" : 1595969823325,
+    "updatedDate" : 1595969823325
+  },
+  "rclass" : {
+    "classId" : "100",
+    "prop" : "expr",
+    "value" : "a=b"
+  }
+}
