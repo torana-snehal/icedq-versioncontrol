@@ -1,14 +1,14 @@
 {
   "rule" : {
     "id" : "111",
-    "name" : "Ice Rule Test",
+    "name" : "Snehal testing",
     "desc" : "Records Tesing",
     "creationDate" : 1595969980648,
     "updatedDate" : 1595969980648
   },
   "rclass" : {
     "classId" : "100",
-    "prop" : "Rule",
-    "value" : "Test123"
+    "prop" : "test",
+    "value" : "Test@789"
   }
 }
