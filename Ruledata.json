@@ -1,14 +1,14 @@
 {
   "rule" : {
     "id" : "111",
-    "name" : "Snehal testing",
-    "desc" : "Records Tesing",
-    "creationDate" : 1595969980648,
-    "updatedDate" : 1595969980648
+    "name" : "CustomerRP",
+    "desc" : "Records customerRP",
+    "creationDate" : null,
+    "updatedDate" : null
   },
   "rclass" : {
     "classId" : "100",
-    "prop" : "test",
-    "value" : "Test@789"
+    "prop" : "customer rp",
+    "value" : "customer rp"
   }
 }
