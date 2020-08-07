@@ -1,14 +1,26 @@
 {
   "rule" : {
     "id" : "111",
+<<<<<<< master
     "name" : "CustomerRP",
     "desc" : "Records customerRP",
     "creationDate" : null,
     "updatedDate" : null
+=======
+    "name" : "Ice Rule Test",
+    "desc" : "Records Tesing",
+    "creationDate" : 1595969980648,
+    "updatedDate" : 1595969980648
+>>>>>>> 40b783f commit new added file
   },
   "rclass" : {
     "classId" : "100",
+<<<<<<< master
     "prop" : "customer rp",
     "value" : "customer rp"
+=======
+    "prop" : "Rule",
+    "value" : "Test123"
+>>>>>>> 40b783f commit new added file
   }
 }
