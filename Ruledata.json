@@ -1,14 +1,14 @@
 {
   "rule" : {
     "id" : "111",
-    "name" : "test1",
-    "desc" : "Records test1 command",
+    "name" : "Rule command",
+    "desc" : "Records rule command",
     "creationDate" : null,
     "updatedDate" : null
   },
   "rclass" : {
     "classId" : "100",
     "prop" : "expr",
-    "value" : "test1"
+    "value" : "@temp=5"
   }
 }
