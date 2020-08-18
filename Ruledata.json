@@ -1,14 +1,14 @@
 {
   "rule" : {
     "id" : "111",
-    "name" : "Customer Test Rule1",
-    "desc" : "Records customer Test",
-    "creationDate" : 1597788040648,
-    "updatedDate" : 1595969980648
+    "name" : "Customer recon1",
+    "desc" : "Records customer recon1",
+    "creationDate" : 1597870816664,
+    "updatedDate" : 1595969896664
   },
   "rclass" : {
     "classId" : "100",
-    "prop" : "Test Mode",
-    "value" : "Testing@909"
+    "prop" : "recon-param",
+    "value" : "neon"
   }
 }
