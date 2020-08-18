@@ -1,14 +1,14 @@
 {
   "rule" : {
     "id" : "111",
-    "name" : "Customer Testing Rule",
-    "desc" : "Records customer Test",
+    "name" : "Sql command",
+    "desc" : "Records command",
     "creationDate" : 1595969980648,
     "updatedDate" : 1595969980648
   },
   "rclass" : {
     "classId" : "100",
-    "prop" : "Test Mode",
-    "value" : "Testing@777"
+    "prop" : "expr",
+    "value" : "select * from Customer"
   }
 }
