@@ -1,14 +1,14 @@
 {
   "rule" : {
     "id" : "111",
-    "name" : "Sql command",
-    "desc" : "Records command",
-    "creationDate" : 1595969980648,
-    "updatedDate" : 1595969980648
+    "name" : "test",
+    "desc" : "Records test command",
+    "creationDate" : null,
+    "updatedDate" : null
   },
   "rclass" : {
     "classId" : "100",
     "prop" : "expr",
-    "value" : "select * from Customer"
+    "value" : "test"
   }
 }
