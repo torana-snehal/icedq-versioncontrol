@@ -1,14 +1,14 @@
 {
   "rule" : {
     "id" : "111",
-    "name" : "Customer recon1",
-    "desc" : "Records customer recon1",
-    "creationDate" : 1597870816664,
-    "updatedDate" : 1595969896664
+    "name" : "Customer Recon12",
+    "desc" : "Records Customer Recon",
+    "creationDate" : null,
+    "updatedDate" : null
   },
   "rclass" : {
-    "classId" : "100",
-    "prop" : "recon-param",
-    "value" : "neon"
+    "classId" : "101",
+    "prop" : "expr",
+    "value" : "x==y"
   }
 }
