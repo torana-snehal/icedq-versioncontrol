@@ -1,14 +1,14 @@
 {
   "rule" : {
     "id" : "111",
-    "name" : "Customer Recon12",
-    "desc" : "Records Customer Recon",
+    "name" : "Customer query",
+    "desc" : "Records Customer query",
     "creationDate" : null,
     "updatedDate" : null
   },
   "rclass" : {
     "classId" : "101",
-    "prop" : "expr",
-    "value" : "x==y"
+    "prop" : "query",
+    "value" : "get all customer"
   }
 }
