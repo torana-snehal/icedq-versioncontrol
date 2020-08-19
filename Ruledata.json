@@ -1,14 +1,14 @@
 {
   "rule" : {
     "id" : "111",
-    "name" : "Customer Testing Rule",
-    "desc" : "Records customer Test",
+    "name" : "Ice Rule Test",
+    "desc" : "Records Tesing",
     "creationDate" : 1595969980648,
     "updatedDate" : 1595969980648
   },
   "rclass" : {
     "classId" : "100",
-    "prop" : "Test Mode",
-    "value" : "Testing@777"
+    "prop" : "Rule",
+    "value" : "Test123"
   }
 }
