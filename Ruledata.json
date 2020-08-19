@@ -1,9 +1,9 @@
 {
   "rule" : {
     "id" : "111",
-    "name" : "Ice Rule Test",
+    "name" : "Ice Rule Test case 223",
     "desc" : "Records Tesing",
-    "creationDate" : 1595969980648,
+    "creationDate" : 1597859155527,
     "updatedDate" : 1595969980648
   },
   "rclass" : {
