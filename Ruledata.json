@@ -1,7 +1,7 @@
 {
   "rule" : {
     "id" : "111",
-    "name" : "Customer Test Rule",
+    "name" : "Customer Testing Rule",
     "desc" : "Records customer Test",
     "creationDate" : 1595969980648,
     "updatedDate" : 1595969980648
@@ -9,6 +9,6 @@
   "rclass" : {
     "classId" : "100",
     "prop" : "Test Mode",
-    "value" : "Testing@909"
+    "value" : "Testing@777"
   }
 }
