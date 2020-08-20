@@ -1,14 +1,14 @@
 {
   "rule" : {
-    "id" : null,
-    "name" : "Test",
-    "desc" : "Records test param",
-    "creationDate" : null,
-    "updatedDate" : null
+    "id" : "111",
+    "name" : "Customer connection test",
+    "desc" : "Records customer connection test",
+    "creationDate" : 1595969896664,
+    "updatedDate" : 1595969896664
   },
   "rclass" : {
-    "classId" : null,
-    "prop" : "expr",
-    "value" : "a=b"
+    "classId" : "100",
+    "prop" : "CONNECTION",
+    "value" : "Test"
   }
 }
