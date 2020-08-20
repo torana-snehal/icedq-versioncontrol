@@ -1,14 +1,14 @@
 {
   "rule" : {
-    "id" : null,
-    "name" : "test",
-    "desc" : "test",
+    "id" : "111",
+    "name" : "Testing",
+    "desc" : "Testing",
     "creationDate" : null,
     "updatedDate" : null
   },
   "rclass" : {
-    "classId" : null,
-    "prop" : "test",
-    "value" : "test"
+    "classId" : "100",
+    "prop" : "test123",
+    "value" : "Test123"
   }
 }
